@@ -1,0 +1,1 @@
+# stretagy-pattern
